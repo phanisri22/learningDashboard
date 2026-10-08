@@ -1,0 +1,87 @@
+{
+  "id": 2,
+  "title": "Generative AI",
+  "instructor": "Sarah Williams",
+  "lessons": [
+    {
+      "id": 201,
+      "title": "Introduction to Generative AI",
+      "completed": true
+    },
+    {
+      "id": 202,
+      "title": "Neural Network Basics",
+      "completed": true
+    },
+    {
+      "id": 203,
+      "title": "Transformers",
+      "completed": true
+    },
+    {
+      "id": 204,
+      "title": "Large Language Models",
+      "completed": true
+    },
+    {
+      "id": 205,
+      "title": "Prompt Engineering",
+      "completed": true
+    },
+    {
+      "id": 206,
+      "title": "Embeddings",
+      "completed": true
+    },
+    {
+      "id": 207,
+      "title": "Retrieval-Augmented Generation",
+      "completed": false
+    },
+    {
+      "id": 208,
+      "title": "Fine-Tuning",
+      "completed": false
+    },
+    {
+      "id": 209,
+      "title": "Diffusion Models",
+      "completed": false
+    },
+    {
+      "id": 210,
+      "title": "Image Generation",
+      "completed": false
+    },
+    {
+      "id": 211,
+      "title": "Evaluation Metrics",
+      "completed": false
+    },
+    {
+      "id": 212,
+      "title": "AI Agents",
+      "completed": false
+    },
+    {
+      "id": 213,
+      "title": "Tool Use",
+      "completed": false
+    },
+    {
+      "id": 214,
+      "title": "Safety & Alignment",
+      "completed": false
+    },
+    {
+      "id": 215,
+      "title": "Deploying GenAI Apps",
+      "completed": false
+    },
+    {
+      "id": 216,
+      "title": "Capstone Project",
+      "completed": false
+    }
+  ]
+}

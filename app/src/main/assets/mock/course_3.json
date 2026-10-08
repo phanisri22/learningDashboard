@@ -1,0 +1,147 @@
+{
+  "id": 3,
+  "title": "Full Stack Development",
+  "instructor": "David Brown",
+  "lessons": [
+    {
+      "id": 301,
+      "title": "Introduction",
+      "completed": true
+    },
+    {
+      "id": 302,
+      "title": "How the Web Works",
+      "completed": true
+    },
+    {
+      "id": 303,
+      "title": "HTML Fundamentals",
+      "completed": true
+    },
+    {
+      "id": 304,
+      "title": "CSS Fundamentals",
+      "completed": true
+    },
+    {
+      "id": 305,
+      "title": "Responsive Design",
+      "completed": true
+    },
+    {
+      "id": 306,
+      "title": "JavaScript Basics",
+      "completed": true
+    },
+    {
+      "id": 307,
+      "title": "DOM Manipulation",
+      "completed": true
+    },
+    {
+      "id": 308,
+      "title": "Async JavaScript",
+      "completed": false
+    },
+    {
+      "id": 309,
+      "title": "Git & GitHub",
+      "completed": false
+    },
+    {
+      "id": 310,
+      "title": "React Basics",
+      "completed": false
+    },
+    {
+      "id": 311,
+      "title": "React State & Hooks",
+      "completed": false
+    },
+    {
+      "id": 312,
+      "title": "Routing",
+      "completed": false
+    },
+    {
+      "id": 313,
+      "title": "Forms & Validation",
+      "completed": false
+    },
+    {
+      "id": 314,
+      "title": "Node.js Basics",
+      "completed": false
+    },
+    {
+      "id": 315,
+      "title": "Express.js",
+      "completed": false
+    },
+    {
+      "id": 316,
+      "title": "REST API Design",
+      "completed": false
+    },
+    {
+      "id": 317,
+      "title": "Databases & SQL",
+      "completed": false
+    },
+    {
+      "id": 318,
+      "title": "MongoDB",
+      "completed": false
+    },
+    {
+      "id": 319,
+      "title": "Authentication",
+      "completed": false
+    },
+    {
+      "id": 320,
+      "title": "Authorization",
+      "completed": false
+    },
+    {
+      "id": 321,
+      "title": "Testing",
+      "completed": false
+    },
+    {
+      "id": 322,
+      "title": "Docker Basics",
+      "completed": false
+    },
+    {
+      "id": 323,
+      "title": "CI/CD",
+      "completed": false
+    },
+    {
+      "id": 324,
+      "title": "Cloud Deployment",
+      "completed": false
+    },
+    {
+      "id": 325,
+      "title": "Performance",
+      "completed": false
+    },
+    {
+      "id": 326,
+      "title": "Security Best Practices",
+      "completed": false
+    },
+    {
+      "id": 327,
+      "title": "System Design Basics",
+      "completed": false
+    },
+    {
+      "id": 328,
+      "title": "Capstone Project",
+      "completed": false
+    }
+  ]
+}
