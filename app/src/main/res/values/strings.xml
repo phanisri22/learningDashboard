@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Learning Dashboard</string>
+
+    <string name="login_title">Welcome back</string>
+    <string name="login_subtitle">Sign in to continue learning</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+    <string name="demo_credentials">Demo accounts: demo@learn.com or alex@learn.com\nTest states: empty@learn.com, error@learn.com, expired@learn.com\nPassword: password123</string>
+    <string name="error_email_blank">Enter your email</string>
+    <string name="error_email_invalid">Enter a valid email address</string>
+    <string name="error_password_blank">Enter your password</string>
+    <string name="error_password_short">Password must be at least %1$d characters</string>
+
+    <string name="dashboard_title">My Courses</string>
+    <string name="logout">Log out</string>
+    <string name="unsynced_logout_title">Progress not synced yet</string>
+    <plurals name="unsynced_logout_message">
+        <item quantity="one">%1$d completed lesson hasn\'t synced because you\'re offline. It\'s saved on this device and will sync the next time you log in.</item>
+        <item quantity="other">%1$d completed lessons haven\'t synced because you\'re offline. They\'re saved on this device and will sync the next time you log in.</item>
+    </plurals>
+    <string name="logout_anyway">Log out anyway</string>
+    <string name="stay_logged_in">Stay</string>
+    <string name="instructor_by">by %1$s</string>
+    <string name="lessons_count">%1$d lessons</string>
+    <string name="progress_percent">%1$d%%</string>
+    <string name="continue_course">Continue</string>
+    <string name="empty_courses_title">No courses yet</string>
+    <string name="empty_courses_message">Courses you enrol in will appear here.</string>
+    <string name="load_failed_title">Couldn\'t load courses</string>
+    <string name="retry">Retry</string>
+    <string name="refresh_failed_cached">Couldn\'t refresh. Showing saved courses.</string>
+    <string name="offline_banner">You\'re offline. Showing saved data.</string>
+
+    <string name="back">Back</string>
+    <string name="lessons_completed">%1$d of %2$d lessons completed</string>
+    <string name="lessons_header">Lessons</string>
+    <string name="status_completed">Completed</string>
+    <string name="status_pending">Pending</string>
+    <string name="mark_complete">Mark complete</string>
+    <string name="pending_sync">Saved on device, will sync when online</string>
+    <string name="no_lessons">No lessons in this course yet.</string>
+    <string name="lessons_unavailable">Lessons aren\'t available offline yet.</string>
+    <string name="course_load_failed_title">Couldn\'t load this course</string>
+
+    <string name="error_network">No internet connection. Check your network and try again.</string>
+    <string name="error_invalid_credentials">Invalid email or password.</string>
+    <string name="error_unauthorized">Your session has expired. Please log in again.</string>
+    <string name="error_not_found">We couldn\'t find what you were looking for.</string>
+    <string name="error_server">Server error (%1$d). Please try again later.</string>
+    <string name="error_unknown">Something went wrong. Please try again.</string>
+</resources>
