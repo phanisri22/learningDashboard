@@ -1,5 +1,5 @@
 # Learning Dashboard (Android · Kotlin · Jetpack Compose)
-
+Attached the APK in the releases. Can access throguh the link: `https://github.com/phanisri22/learningDashboard/releases/tag/v1.0`
 Login → Course Dashboard → Course Details with lesson completion, offline-first.
 **Demo logins:** `demo@learn.com` or `alex@learn.com` (test states: `empty@`, `error@`, `expired@learn.com`), password `password123` · **Run tests:** `./gradlew testDebugUnitTest` · **APK:** `./gradlew assembleRelease`
 
